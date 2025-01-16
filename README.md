@@ -5,11 +5,3 @@
 
 
 Personally created and publicly available demo of framer motion on a standard Tailwind enabled theme
-
-### Github pages Example:
-https://apezdr.github.io/NextJS-FramerMotion-Example-Site
-
-
-Uses NextJS 12 Layout/Template approach with framer motion for page transitions.
-
-[![Visits Badge](https://badges.strrl.dev/visits/Apezdr/NextJS-FramerMotion-Example-Site)](https://github.com/Apezdr/NextJS-FramerMotion-Example-Site)
